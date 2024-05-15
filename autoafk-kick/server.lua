@@ -34,9 +34,7 @@ end)
 
 Citizen.CreateThread(function()
     while true do
-        Citizen.Wait(60000)
-        
-        -- Loop through all players
+        Citizen.Wait(60000)    
         for _, playerId in ipairs(GetPlayers()) do
             if IsPlayerAFK(playerId) then
                 DropPlayer(playerId, "You were kicked for being AFK.")
