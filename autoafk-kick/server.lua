@@ -1,6 +1,6 @@
 -- Define the threshold for considering a player as AFK (in seconds) 
--- Feel free to edit the line below this.
-local AFK_THRESHOLD = 10  -- 10 minutes
+-- Feel free to edit the line below this, so you can edit the threshold to your liking.
+local AFK_THRESHOLD = 600  -- 10 minutes
 
 
 --Please do NOT edit anything after this
