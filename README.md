@@ -1,5 +1,5 @@
 # AutoAFK-Kick
- Automatically kick someone if they've been AFK for over 10 minutes!
+ Automatically kick someone if they've been AFK for over 10 minutes! (FIVEM)
 
 ## Warning
 This might be a bit inaccurate as this script is barely tested so there might be bugs, if there are bugs just join my [Discord server](https://discord.gg/eJfgfFtZ2r) and open a ticket.
